@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6fb79b8-7af7-487d-b42d-c7f04da3315b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/maven/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZF9kFp2Yt1Pe1GdSlipvAhLPaV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/zhaoxiaotao/02" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea space\com.zhaoxiaotao\src\com\zhaoxiaotao\02" />
+      <recent name="E:\idea space\com.zhaoxiaotao\web\WEB-INF\lib" />
+      <recent name="E:\idea space\com.zhaoxiaotao\src\com\zhaoxiaotao\ioc" />
+      <recent name="E:\idea space\com.zhaoxiaotao\src" />
+      <recent name="E:\idea space\com.zhaoxiaotao\web\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestDI">
+    <configuration name="TestDI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhaoxiaotao.ioc.TestDI" />
+      <module name="zhaoxiaotao-01-ioc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhaoxiaotao.ioc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIoC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhaoxiaotao.ioc.TestIoC" />
+      <module name="zhaoxiaotao-01-ioc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhaoxiaotao.ioc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDI.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zhaoxiaotao-01-ioc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhaoxiaotao.ioc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zhaoxiaotao.ioc" />
+      <option name="MAIN_CLASS_NAME" value="com.zhaoxiaotao.ioc.TestDI" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestDI" />
+        <item itemvalue="Application.TestIoC" />
+        <item itemvalue="JUnit.TestDI.test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6fb79b8-7af7-487d-b42d-c7f04da3315b" name="Default Changelist" comment="" />
+      <created>1584424115063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584424115063</updated>
+      <workItem from="1584424120107" duration="3115000" />
+      <workItem from="1584427257465" duration="868000" />
+      <workItem from="1584488388782" duration="9000" />
+      <workItem from="1584496887281" duration="7000" />
+      <workItem from="1584497506782" duration="5405000" />
+      <workItem from="1584513031342" duration="1372000" />
+      <workItem from="1584681266884" duration="10000" />
+      <workItem from="1584688920578" duration="59000" />
+      <workItem from="1596708443914" duration="642000" />
+      <workItem from="1596765996303" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1596765997167">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596765997167" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1596708554445">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596708554445" />
+  </component>
+</project>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b12717ec-1e89-4e51-a0a3-e34165a5707e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/maven/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zi0t6DCXgIM7tQBjr3jLnwpi8W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea space\com.zxt.08\web\WEB-INF\lib" />
+      <recent name="E:\idea space\com.zxt.08\src" />
+      <recent name="E:\idea space\com.zxt.08\web\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MybatisTest.findCustomerByNameAndJobsTest">
+    <configuration name="MybatisTest.findCustomerByIdsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.zxt.08" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.cc.test.MybatisTest" />
+      <option name="METHOD_NAME" value="findCustomerByIdsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.findCustomerByNameAndJobsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.zxt.08" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.cc.test.MybatisTest" />
+      <option name="METHOD_NAME" value="findCustomerByNameAndJobsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.findCustomerByNameOrJobsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.zxt.08" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.cc.test.MybatisTest" />
+      <option name="METHOD_NAME" value="findCustomerByNameOrJobsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.findCustomerByNameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.zxt.08" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.cc.test.MybatisTest" />
+      <option name="METHOD_NAME" value="findCustomerByNameTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.updateCustomerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.zxt.08" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.cc.test.MybatisTest" />
+      <option name="METHOD_NAME" value="updateCustomerTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MybatisTest.findCustomerByNameAndJobsTest" />
+        <item itemvalue="JUnit.MybatisTest.findCustomerByNameOrJobsTest" />
+        <item itemvalue="JUnit.MybatisTest.findCustomerByNameTest" />
+        <item itemvalue="JUnit.MybatisTest.updateCustomerTest" />
+        <item itemvalue="JUnit.MybatisTest.findCustomerByIdsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b12717ec-1e89-4e51-a0a3-e34165a5707e" name="Default Changelist" comment="" />
+      <created>1585306818569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585306818569</updated>
+      <workItem from="1585306821827" duration="295000" />
+      <workItem from="1585707535507" duration="3946000" />
+      <workItem from="1585736624623" duration="694000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="247" key="GridCell.Tab.0.bottom" timestamp="1585712151394">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="247" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1585712151394" />
+    <state width="1493" height="247" key="GridCell.Tab.0.center" timestamp="1585712151394">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="247" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1585712151394" />
+    <state width="1493" height="247" key="GridCell.Tab.0.left" timestamp="1585712151394">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="247" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1585712151394" />
+    <state width="1493" height="247" key="GridCell.Tab.0.right" timestamp="1585712151394">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="247" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1585712151394" />
+    <state x="449" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1585736637482">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="449" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1585736637482" />
+    <state x="178" y="27" key="new project wizard" timestamp="1585736660410">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="178" y="27" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1585736660410" />
+  </component>
+</project>

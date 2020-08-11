@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="326f3568-f9cc-466b-83e2-bf66cb2f07ca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="python-01/invalid/Django" />
+    </ignored-facets>
+  </component>
+  <component name="ProjectId" id="1UQ5ju24tidruQy5CZjDEQPpQf8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/python_01" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea space\python-01\python_01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.0318">
+    <configuration name="0318" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Administrator\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_01/0318.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_01/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__init__02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_01/__init__02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="python-01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Administrator\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="matplotlib1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_01/matplotlib1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pandas21" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_01/pandas21.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python-01" type="Python.DjangoServer" factoryName="Django server">
+      <module name="python-01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.python-01" />
+      <item itemvalue="Python.0318" />
+      <item itemvalue="Python.__init__" />
+      <item itemvalue="Python.__init__02" />
+      <item itemvalue="Python.matplotlib1" />
+      <item itemvalue="Python.pandas21" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.0318" />
+        <item itemvalue="Python.0318" />
+        <item itemvalue="Python.__init__02" />
+        <item itemvalue="Python.__init__" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="326f3568-f9cc-466b-83e2-bf66cb2f07ca" name="Default Changelist" comment="" />
+      <created>1575276116259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575276116259</updated>
+      <workItem from="1575276119678" duration="572000" />
+      <workItem from="1575277453646" duration="6000" />
+      <workItem from="1575284630134" duration="80000" />
+      <workItem from="1575290403720" duration="91000" />
+      <workItem from="1575443567168" duration="4702000" />
+      <workItem from="1575534225151" duration="27000" />
+      <workItem from="1576221700441" duration="2215000" />
+      <workItem from="1576223985521" duration="420000" />
+      <workItem from="1576485504050" duration="400000" />
+      <workItem from="1576566815401" duration="2231000" />
+      <workItem from="1576569767198" duration="900000" />
+      <workItem from="1576584415468" duration="182000" />
+      <workItem from="1576653168471" duration="3761000" />
+      <workItem from="1576660780634" duration="19000" />
+      <workItem from="1576826560381" duration="4287000" />
+      <workItem from="1584342464160" duration="167000" />
+      <workItem from="1584342638044" duration="255000" />
+      <workItem from="1584342904959" duration="649000" />
+      <workItem from="1584343584030" duration="394000" />
+      <workItem from="1584344000782" duration="696000" />
+      <workItem from="1584344763580" duration="48000" />
+      <workItem from="1584344844082" duration="439000" />
+      <workItem from="1584345783281" duration="235000" />
+      <workItem from="1584346745532" duration="342000" />
+      <workItem from="1584347103089" duration="720000" />
+      <workItem from="1584415081488" duration="11000" />
+      <workItem from="1584424054402" duration="65000" />
+      <workItem from="1584515469445" duration="1025000" />
+      <workItem from="1584516506362" duration="3808000" />
+      <workItem from="1584520855998" duration="967000" />
+      <workItem from="1584523415667" duration="1259000" />
+      <workItem from="1584534684235" duration="7000" />
+      <workItem from="1584601901697" duration="4455000" />
+      <workItem from="1584608548357" duration="230000" />
+      <workItem from="1584613029294" duration="683000" />
+      <workItem from="1584668429219" duration="22000" />
+      <workItem from="1584679687535" duration="9000" />
+      <workItem from="1584948224058" duration="625000" />
+      <workItem from="1585122805489" duration="1769000" />
+      <workItem from="1585126927623" duration="7000" />
+      <workItem from="1585141062556" duration="321000" />
+      <workItem from="1585187870038" duration="7000" />
+      <workItem from="1585554034673" duration="1384000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="365" y="134" key="#HTTP_Proxy" timestamp="1584344317011">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="365" y="134" key="#HTTP_Proxy/0.0.1536.834@0.0.1536.834" timestamp="1584344317011" />
+    <state x="0" y="151" key="#Notifications" timestamp="1585141371757">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="0" y="151" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1585141371757" />
+    <state x="477" y="31" key="#__init__" timestamp="1584347143510">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="477" y="31" key="#__init__/0.0.1536.834@0.0.1536.834" timestamp="1584347143510" />
+    <state x="201" y="64" width="1089" height="733" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585123112099">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="201" y="64" width="1089" height="733" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1585123112099" />
+    <state x="685" y="217" key="FileChooserDialogImpl" timestamp="1584521223023">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="685" y="217" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1584521223023" />
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom" timestamp="1585126771204">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1585126771204" />
+    <state width="1493" height="265" key="GridCell.Tab.0.center" timestamp="1585126771204">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1585126771204" />
+    <state width="1493" height="265" key="GridCell.Tab.0.left" timestamp="1585126771204">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1585126771204" />
+    <state width="1493" height="265" key="GridCell.Tab.0.right" timestamp="1585126771204">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1585126771204" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1585126771204">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1585126771204" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1585126771204">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1585126771204" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1585126771204">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1585126771204" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1585126771204">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1585126771204" />
+    <state x="171" y="0" key="SettingsEditor" timestamp="1584521225994">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="171" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1584521225994" />
+    <state width="775" height="424" key="XDebugger.FullValuePopup" timestamp="1585123000727">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="775" height="424" key="XDebugger.FullValuePopup/0.0.1536.834@0.0.1536.834" timestamp="1585123000727" />
+    <state x="449" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1585187870194">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="449" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1585187870194" />
+    <state x="193" y="54" key="new project wizard" timestamp="1584424114580">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="193" y="54" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1584424114580" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1584345257985">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1584345257985" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_01$__init__02.coverage" NAME="__init__02 Coverage Results" MODIFIED="1584516603057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_01" />
+    <SUITE FILE_PATH="coverage/python_01$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1584515516605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_01" />
+    <SUITE FILE_PATH="coverage/python_01$0318.coverage" NAME="0318 Coverage Results" MODIFIED="1585123755707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_01" />
+  </component>
+</project>

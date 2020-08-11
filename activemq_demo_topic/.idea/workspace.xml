@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36150d08-9d87-4341-8669-afcd75d77ff1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/maven/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d7ptSheu8EumqmuVLqwjQBFy0P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/boot_mq_topic_produce/src/main" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea space\activemq_demo_topic\boot_mq_topic_produce\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MainApp_TopicProduce">
+    <configuration name="MainApp5555" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="boot_mq_topic_consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.boot.activemq.topic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.boot.activemq.topic.MainApp5555" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApp5566" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="boot_mq_topic_consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.boot.activemq.topic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.boot.activemq.topic.MainApp5566" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApp_TopicProduce" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="boot_mq_topic_produce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.boot.topic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.boot.topic.MainApp_TopicProduce" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MainApp_TopicProduce" />
+        <item itemvalue="Spring Boot.MainApp5566" />
+        <item itemvalue="Spring Boot.MainApp5555" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36150d08-9d87-4341-8669-afcd75d77ff1" name="Default Changelist" comment="" />
+      <created>1591786199772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591786199772</updated>
+      <workItem from="1591786202169" duration="129000" />
+      <workItem from="1591786342989" duration="2351000" />
+      <workItem from="1591883982327" duration="8000" />
+      <workItem from="1592043068757" duration="102000" />
+      <workItem from="1596790798610" duration="3578000" />
+      <workItem from="1596939536065" duration="48000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="79" y="178" key="#Project_Structure" timestamp="1591786216496">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="79" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1591786216496" />
+    <state x="800" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591787581618">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="800" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591787581618" />
+    <state width="914" height="441" key="GridCell.Tab.0.bottom" timestamp="1591797018023">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="441" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591797018023" />
+    <state width="914" height="441" key="GridCell.Tab.0.center" timestamp="1591797018023">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="441" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591797018023" />
+    <state width="914" height="441" key="GridCell.Tab.0.left" timestamp="1591797018023">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="441" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591797018023" />
+    <state width="914" height="441" key="GridCell.Tab.0.right" timestamp="1591797018023">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="441" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591797018023" />
+    <state width="914" height="441" key="GridCell.Tab.1.bottom" timestamp="1591797018023">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="441" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591797018023" />
+    <state width="914" height="441" key="GridCell.Tab.1.center" timestamp="1591797018023">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="441" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591797018023" />
+    <state width="914" height="441" key="GridCell.Tab.1.left" timestamp="1591797018023">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="441" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591797018023" />
+    <state width="914" height="441" key="GridCell.Tab.1.right" timestamp="1591797018023">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="441" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591797018023" />
+    <state x="1120" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1596939536584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1120" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596939536584" />
+    <state x="1170" y="276" key="extract.method.dialog" timestamp="1591787334952">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1170" y="276" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591787334952" />
+    <state x="311" y="233" key="new project wizard" timestamp="1591786509196">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="311" y="233" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1591786509196" />
+  </component>
+</project>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17d64ed0-a82f-4aa8-baa8-783e6b08f2c9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/maven/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZNwPN7bdo38SkTeRXTZWgha1U9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea space\com.zhaoxiaotao.04\web\WEB-INF\lib" />
+      <recent name="E:\idea space\com.zhaoxiaotao.04\src" />
+      <recent name="E:\idea space\com.zhaoxiaotao.04\web\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.JdbcTemplateTest.mainTest">
+    <configuration name="JdbcTemplateTest.addAccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cm.cc.04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cc.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cc.jdbc" />
+      <option name="MAIN_CLASS_NAME" value="com.cc.jdbc.JdbcTemplateTest" />
+      <option name="METHOD_NAME" value="addAccountTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTemplateTest.deleteAccountTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cm.cc.04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cc.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cc.jdbc" />
+      <option name="MAIN_CLASS_NAME" value="com.cc.jdbc.JdbcTemplateTest" />
+      <option name="METHOD_NAME" value="deleteAccountTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTemplateTest.findAccountByIdTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cm.cc.04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cc.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cc.jdbc" />
+      <option name="MAIN_CLASS_NAME" value="com.cc.jdbc.JdbcTemplateTest" />
+      <option name="METHOD_NAME" value="findAccountByIdTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTemplateTest.mainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cm.cc.04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cc.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cc.jdbc" />
+      <option name="MAIN_CLASS_NAME" value="com.cc.jdbc.JdbcTemplateTest" />
+      <option name="METHOD_NAME" value="mainTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTemplateTest.updateAccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cm.cc.04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cc.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cc.jdbc" />
+      <option name="MAIN_CLASS_NAME" value="com.cc.jdbc.JdbcTemplateTest" />
+      <option name="METHOD_NAME" value="updateAccountTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JdbcTemplateTest.mainTest" />
+        <item itemvalue="JUnit.JdbcTemplateTest.addAccountTest" />
+        <item itemvalue="JUnit.JdbcTemplateTest.updateAccountTest" />
+        <item itemvalue="JUnit.JdbcTemplateTest.deleteAccountTest (1)" />
+        <item itemvalue="JUnit.JdbcTemplateTest.findAccountByIdTest (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17d64ed0-a82f-4aa8-baa8-783e6b08f2c9" name="Default Changelist" comment="" />
+      <created>1584692834266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584692834266</updated>
+      <workItem from="1584692837891" duration="463000" />
+      <workItem from="1584693554237" duration="1727000" />
+      <workItem from="1584696781830" duration="50000" />
+      <workItem from="1584925644127" duration="47000" />
+      <workItem from="1585009551161" duration="2497000" />
+      <workItem from="1585012670149" duration="2149000" />
+      <workItem from="1585051956186" duration="1156000" />
+      <workItem from="1585053246039" duration="384000" />
+      <workItem from="1585054867176" duration="314000" />
+      <workItem from="1585055244106" duration="81000" />
+      <workItem from="1585055379716" duration="1580000" />
+      <workItem from="1585102161117" duration="10000" />
+      <workItem from="1585120480639" duration="1648000" />
+      <workItem from="1585280698504" duration="464000" />
+      <workItem from="1585287481092" duration="7000" />
+      <workItem from="1585292157265" duration="3912000" />
+      <workItem from="1585298987063" duration="545000" />
+      <workItem from="1585299581980" duration="38000" />
+      <workItem from="1585299807307" duration="730000" />
+      <workItem from="1585398053729" duration="1752000" />
+      <workItem from="1585741652380" duration="2164000" />
+      <workItem from="1585745562886" duration="6000" />
+      <workItem from="1585895612539" duration="427000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="75" key="#Project_Structure" timestamp="1584693124649">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="75" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1584693124649" />
+    <state x="578" y="158" key="FileChooserDialogImpl" timestamp="1585053230476">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="578" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1585053230476" />
+    <state width="1389" height="110" key="GridCell.Tab.0.bottom" timestamp="1585744557699">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1389" height="110" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1585744557699" />
+    <state width="1389" height="110" key="GridCell.Tab.0.center" timestamp="1585744557699">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1389" height="110" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1585744557699" />
+    <state width="1389" height="110" key="GridCell.Tab.0.left" timestamp="1585744557699">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1389" height="110" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1585744557699" />
+    <state width="1389" height="110" key="GridCell.Tab.0.right" timestamp="1585744557699">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1389" height="110" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1585744557699" />
+    <state x="342" y="0" key="SettingsEditor" timestamp="1585057348875">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="342" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1585057348875" />
+    <state x="449" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1585745562646">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="449" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1585745562646" />
+    <state x="178" y="27" key="new project wizard" timestamp="1585298602402">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="178" y="27" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1585298602402" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1585057353254">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1585057353254" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1585057357468">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1585057357468" />
+    <state x="449" y="100" key="spring file set editor" timestamp="1584693128737">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="449" y="100" key="spring file set editor/0.0.1536.834@0.0.1536.834" timestamp="1584693128737" />
+  </component>
+</project>

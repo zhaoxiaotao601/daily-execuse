@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- namespace:理解成实现类的全限定路径（包名+类名） -->
+<mapper namespace="com.zxt.mapper">
+    <!--  id:方法名
+            parameterType:定于参数类型
+            resultType:返回值类型
+            如果方法返回值是list，在resultType中写List的泛型，因为mybatis是对jdbc的封装，是一行一行读取数据的
+      -->
+    <select id="selAll" resultType="com.zxt.po.Flower">
+        select * from t_user;
+    </select>
+    <select id="selById" resultType="int">
+        select count(*) from t_user;
+    </select>
+    <select id="sel" resultType="com.zxt.po.Flower">
+        select * from t_user;
+    </select>
+</mapper>

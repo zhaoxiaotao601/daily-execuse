@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf6421ad-34ce-421e-8470-f8a432d441f2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UQN90OL3EN2gvjlXhVRv7Oznvh" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/jar包/mybatis-3-mybatis-3.5.3/mybatis-3-mybatis-3.5.3/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\idea space\Socket\src\com\zxt\mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zxt.chat_02" />
+      <recent name="com.zxt.chat_01" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea space\Socket\src\com\zxt\chat_03" />
+      <recent name="E:\idea space\Socket\src\com\zxt\chat_02" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.test_02">
+    <configuration name="Server03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zxt.request.Server03" />
+      <module name="Socket" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zxt.request.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TMultiClient" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zxt.chat_02.TMultiClient" />
+      <module name="Socket" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zxt.chat_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zxt.test.test_01" />
+      <module name="Socket" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zxt.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zxt.test.test_02" />
+      <module name="Socket" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zxt.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Socket/com/zxt/request/login.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.TMultiClient" />
+      <item itemvalue="Application.test_01" />
+      <item itemvalue="Application.Server03" />
+      <item itemvalue="Application.test_02" />
+      <item itemvalue="JavaScript Debug.login.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test_02" />
+        <item itemvalue="Application.Server03" />
+        <item itemvalue="JavaScript Debug.login.html" />
+        <item itemvalue="Application.test_01" />
+        <item itemvalue="Application.TMultiClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf6421ad-34ce-421e-8470-f8a432d441f2" name="Default Changelist" comment="" />
+      <created>1575284703067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575284703067</updated>
+      <workItem from="1575284706394" duration="6073000" />
+      <workItem from="1575347781836" duration="6192000" />
+      <workItem from="1575443559235" duration="11000" />
+      <workItem from="1575534253571" duration="28000" />
+      <workItem from="1575595830272" duration="7452000" />
+      <workItem from="1575623142418" duration="2446000" />
+      <workItem from="1575631077900" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

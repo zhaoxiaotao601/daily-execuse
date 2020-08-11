@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="904ff015-88bd-4076-a707-142521c3b6d9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/maven/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZHjYbwjjrBp4ImPU4LIDQUSxEo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea space\com.zhaoxiaotao.02\src" />
+      <recent name="E:\idea space\com.zhaoxiaotao.02\web\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ScopeTest">
+    <configuration name="AnnotationAssembleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhaoxiaotao.annotation.AnnotationAssembleTest" />
+      <module name="com.zhaoxiaotao.02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhaoxiaotao.annotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstanceTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhaoxiaotao.instance.constructor.InstanceTest1" />
+      <module name="com.zhaoxiaotao.02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhaoxiaotao.instance.constructor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstanceTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhaoxiaotao.instance.factory.InstanceTest3" />
+      <module name="com.zhaoxiaotao.02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhaoxiaotao.instance.factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScopeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhaoxiaotao.scope.ScopeTest" />
+      <module name="com.zhaoxiaotao.02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhaoxiaotao.scope.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XmlBeanAssembleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhaoxiaotao.assemble.XmlBeanAssembleTest" />
+      <module name="com.zhaoxiaotao.02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhaoxiaotao.assemble.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ScopeTest" />
+        <item itemvalue="Application.InstanceTest3" />
+        <item itemvalue="Application.InstanceTest1" />
+        <item itemvalue="Application.AnnotationAssembleTest" />
+        <item itemvalue="Application.XmlBeanAssembleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="904ff015-88bd-4076-a707-142521c3b6d9" name="Default Changelist" comment="" />
+      <created>1584502961447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584502961447</updated>
+      <workItem from="1584502966850" duration="741000" />
+      <workItem from="1584515033796" duration="1063000" />
+      <workItem from="1584534692541" duration="3050000" />
+      <workItem from="1584593515282" duration="1074000" />
+      <workItem from="1584601894926" duration="5000" />
+      <workItem from="1584679698293" duration="3470000" />
+      <workItem from="1584685249635" duration="1932000" />
+      <workItem from="1584688913616" duration="73000" />
+      <workItem from="1596766033291" duration="15000" />
+      <workItem from="1596969381273" duration="194000" />
+      <workItem from="1597016746439" duration="3000" />
+      <workItem from="1597114622932" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1121" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1597114623072">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1121" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597114623072" />
+  </component>
+</project>

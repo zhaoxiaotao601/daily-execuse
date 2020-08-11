@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/activemq_demo_topic.iml" filepath="$PROJECT_DIR$/.idea/activemq_demo_topic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot_mq_topic_consumer/boot_mq_topic_consumer.iml" filepath="$PROJECT_DIR$/boot_mq_topic_consumer/boot_mq_topic_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot_mq_topic_produce/boot_mq_topic_produce.iml" filepath="$PROJECT_DIR$/boot_mq_topic_produce/boot_mq_topic_produce.iml" />
+    </modules>
+  </component>
+</project>
